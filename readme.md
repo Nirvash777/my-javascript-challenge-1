@@ -4,14 +4,17 @@
 - MOMENT Parse,validate,manipulate and display dates in javascript .
 
 [![N|Solid](http://leafletjs.com/docs/images/logo.png)](https://nodesource.com/products/nsolid)
-its a JavaScript mapping library
+## LEAFLET
+  its a JavaScript mapping library
 
 
 [![N|Solid](https://react.parts/react-logo.svg)](https://nodesource.com/products/nsolid)
+## REACT
 its a javascript library in MVC
 
 
 [![N|Solid](http://jquery-plugins.net/image/plugin/moment-js.jpg)](https://nodesource.com/products/nsolid)
+## MOMENT.js
 its a javascript library so that it would be easier to work with an object
 
 
